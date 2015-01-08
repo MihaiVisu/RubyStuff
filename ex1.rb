@@ -1,0 +1,6 @@
+puts "Hello World!"
+puts "Hello again"
+puts "this is fun!!!"
+puts "I'd much rather not"
+puts "Yay! Printing"
+puts "I like typing this."
